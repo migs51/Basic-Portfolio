@@ -15,14 +15,15 @@ head {
 	background-color: #ffffff
 }
 
-body {
-	background-color: #ffffff
-	width: 650px;
-
+section {
+	background-image: url("cork-wallet.png")
+	
+	
 }
 
 ul {
 	list-style: none;
+
 	margin-right: 100px;
 	margin-bottom: 30px
 	padding: 0;
