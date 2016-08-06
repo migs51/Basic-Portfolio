@@ -1,18 +1,75 @@
 header {
 
 	font-family: 'Georgia', Times, 'Times New Roman', serif;
-	color: orange ;
-}
 
-.navbar {
+	
 
 }
+
+
+	
+
+}
+
+head {
+	background-color: #ffffff
+}
+
+body {
+	background-color: #ffffff
+	width: 650px;
+
+}
+
+ul {
+	list-style: none;
+	margin-right: 100px;
+	margin-bottom: 30px
+	padding: 0;
+	float: right;
+
+}
+
+li {
+	text-align: center;
+	display: inline
+
+
+}
+
+a {
+
+	padding: 10px
+
+}
+
+footer {
+
+}
+
+h1 {
+	background-color: #4aaaa5 ;
+	color: white ;
+	margin: 20px 30px ;
+	padding: 20px 20px ;
+	height: 20px;
+	width: 110px;
+
+
+}
+
+img {
+	height: 40px;
+	width: 40px;
+}
+
 
 .connectWithMe {
+	background: #eee
+	height: 300px;
+	width: 275px;
+	float: right;
 
-}
-
-.footer {
 
 }
 
@@ -28,5 +85,18 @@ header {
 #Portfolio {
 
 }
+
+#profile {
+	height: 375px;
+	width: 300px;
+}
+
+#portfoliopics {
+	height: 125px;
+	width: 175px
+}
+
+
+
 
 
